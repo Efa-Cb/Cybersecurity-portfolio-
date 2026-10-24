@@ -10,11 +10,11 @@ I value integrity, continuous learning, and responsible security practices.
 
 ## What I'm Currently Learning
 
-  Google Cybersecurity Professional Certificate — In Progress
+  **Google Cybersecurity Professional Certificate — In Progress**
 
 Building my understanding of cybersecurity fundamentals, security risks, professional ethics, and the responsibilities of cybersecurity professionals.
 
-Cisco CCNA — In Progress
+**Cisco CCNA — In Progress**
 
 Learning how computer networks operate, how devices communicate, and how networks are configured, managed, and secured.
 
